@@ -1,0 +1,6 @@
+@mohinhcodefirst_HostAddress = http://localhost:5073
+
+GET {{mohinhcodefirst_HostAddress}}//
+Accept: application/json
+
+###
